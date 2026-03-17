@@ -21,7 +21,7 @@ Pontozás logika:
 	•	 Már létező tárgy → alacsony vagy 0 pont
 	•	 Ritka / nehezen felismerhető tárgy → extra pont
 
-Az alkalmazás gamifikációval motiválja a felhasználókat, hogy minél kreatívabb és változatosabb tárgyakat fotózzanak.
+Az alkalmazás motiválja a felhasználókat, hogy minél kreatívabb és változatosabb tárgyakat fotózzanak.
 
 
 2. rész: Használat & Telepítés
