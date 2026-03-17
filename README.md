@@ -23,7 +23,6 @@ Pontozás logika:
 
 Az alkalmazás gamifikációval motiválja a felhasználókat, hogy minél kreatívabb és változatosabb tárgyakat fotózzanak.
 
-⸻
 
 2. rész: Használat & Telepítés
 
