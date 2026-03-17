@@ -27,13 +27,13 @@ Az alkalmazás gamifikációval motiválja a felhasználókat, hogy minél kreat
 2. rész: Használat & Telepítés
 
 Használat:
-	1.	Nyisd meg az alkalmazást
-	2.	Koppints a kamera ikonra
-	3.	Fotózz le egy tárgyat
-	4.	Az AI elemzi a képet és visszajelzést ad:
+	1	Nyisd meg az alkalmazást
+	2	Koppints a kamera ikonra
+	3	Fotózz le egy tárgyat
+	4	Az AI elemzi a képet és visszajelzést ad:
 	•	Új tárgy → pontot kapsz
 	•	Már ismert tárgy → nincs vagy kevesebb pont
-	5.	Kövesd a pontjaidat és a gyűjteményedet az alkalmazásban
+	5	Kövesd a pontjaidat és a gyűjteményedet az alkalmazásban
 
 
 ## 
