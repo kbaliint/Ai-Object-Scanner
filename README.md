@@ -35,6 +35,12 @@ Használat:
 	•	Már ismert tárgy → nincs vagy kevesebb pont
 	5	Kövesd a pontjaidat és a gyűjteményedet az alkalmazásban
 
+Technológiai háttér
+	•	AI modell: TensorFlow / PyTorch
+	•	Mobil fejlesztés: React Native / Flutter
+	•	Backend: Firebase / Node.js
+	•	Adatbázis: NoSQL / Cloud storage
+
 
 ## 
 Telepítés
