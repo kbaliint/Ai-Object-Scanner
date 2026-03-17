@@ -34,3 +34,13 @@ Használat:
 	•	Új tárgy → pontot kapsz
 	•	Már ismert tárgy → nincs vagy kevesebb pont
 	5.	Kövesd a pontjaidat és a gyűjteményedet az alkalmazásban
+
+
+## 
+Telepítés
+
+```bash
+git clone https://github.com/your-repo/ai-object-scanner.git
+cd ai-object-scanner
+npm install
+npm start
